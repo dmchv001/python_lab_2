@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.vscode/
+*.env
+*.log
+*.tmp
+node_modules/
+secret_password.txt
